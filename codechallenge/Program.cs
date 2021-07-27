@@ -5,7 +5,6 @@ public class Program
 {
 	public static void Main()
 	{
-		List<int> elements = new List<int>();
 		int[] arr = new int[] {90, 21, 15, 12, 70, 66, 89, 7};
 		int x = 97;
 		for (int i = 0; i < arr.Length; i++) {
